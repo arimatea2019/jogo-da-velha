@@ -1,0 +1,32 @@
+Jogo da Velha 2023
+
+=====Créditos=====
+
+Desenvolvimento
+José de Arimatéa Ferreira dos Santos Filho(RGM:32230609)
+João Victor Pessoa Brandão (RGM:26356376)
+Icaro Ouriques Luna Alves (RGM:34326677)
+Heitor Henrique T. dos Santos(RGM:34511831)
+Tayrone Lima da S. FILHO(RGM:34498991)
+
+Programação
+José de Arimatéa Ferreira dos Santos Filho(RGM:32230609)
+João Victor Pessoa Brandão (RGM:26356376)
+Icaro Ouriques Luna Alves (RGM:34326677)
+Heitor Henrique T. dos Santos(RGM:34511831)
+Tayrone Lima da S. FILHO(RGM:34498991)
+
+Testes
+José de Arimatéa Ferreira dos Santos Filho(RGM:32230609)
+João Victor Pessoa Brandão (RGM:26356376)
+Icaro Ouriques Luna Alves (RGM:34326677)
+Heitor Henrique T. dos Santos(RGM:34511831)
+Tayrone Lima da S. FILHO(RGM:34498991)
+
+Agradecimentos
+
+À Deus, pela vida sabedoria e discernimento
+À família, pelo apoio e incentivo.
+Ao professor Walace Sartori Bonfim, por todo 
+o apoio e orientação na disciplina de tecnica
+e desenvolvimento de algoritmos.
